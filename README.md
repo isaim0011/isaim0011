@@ -1,10 +1,15 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,38&height=220&section=header&text=Bimo%20%7C%20isaim0011&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,38&height=200&section=header&text=Bimo%20%E2%9C%A8&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Craftsman&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/isaim0011">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Hey+there%2C+I'm+Bimo+%F0%9F%91%8B;Open+Source+Contributor+%E2%9A%A1;Crafting+Fast+%26+Reliable+Code+%F0%9F%9A%80;Hacking+from+the+Moon+%F0%9F%8C%99" alt="Typing SVG Banner" />
   </a>
+
+  <!-- Daily Dev Quote right under Hi Bimo -->
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" />
+  </p>
 
   <p align="center">
     <a href="https://github.com/isaim0011"><img src="https://komarev.com/ghpvc/?username=isaim0011&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7" alt="Profile Views" /></a>
@@ -17,40 +22,46 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/isaim0011">
-    <img src="https://github-profile-trophy-zeta.vercel.app/?username=isaim0011&theme=tokyonight&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-### 🎖️ GitHub Achievements & Milestones
+### 🎖️ Earned Achievements & Milestones
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100px;" alt="Pull Shark" /><br />
-        <sub><b>Pull Shark 🦈</b></sub><br />
+        <a href="https://github.com/isaim0011?tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95px;" alt="Pull Shark" />
+        </a>
+        <br />
+        <b>Pull Shark 🦈</b>
+        <br />
         <sub>Merged upstream PRs across Swift, Rust & Python</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100px;" alt="Quickdraw" /><br />
-        <sub><b>Quickdraw ⚡</b></sub><br />
+        <a href="https://github.com/isaim0011?tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95px;" alt="Quickdraw" />
+        </a>
+        <br />
+        <b>Quickdraw ⚡</b>
+        <br />
         <sub>Rapid bug triage & precision code reviews</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="100px;" alt="Pair Extraordinaire" /><br />
-        <sub><b>Pair Extraordinaire 👯</b></sub><br />
-        <sub>Collaborating & co-authoring with maintainers</sub>
+        <a href="https://github.com/isaim0011?tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95px;" alt="Pair Extraordinaire" />
+        </a>
+        <br />
+        <b>Pair Extraordinaire 👯</b>
+        <br />
+        <sub>Collaborated & co-authored with maintainers</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="100px;" alt="YOLO" /><br />
-        <sub><b>YOLO 🚀</b></sub><br />
-        <sub>Fearless debugging, AST refactoring & fast delivery</sub>
+        <a href="https://github.com/isaim0011?tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95px;" alt="YOLO" />
+        </a>
+        <br />
+        <b>YOLO 🚀</b>
+        <br />
+        <sub>Fearless AST refactoring & fast delivery</sub>
       </td>
     </tr>
   </table>
@@ -119,25 +130,12 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Contribution Streak & Activity
 
 <div align="center">
-  <a href="https://github.com/isaim0011">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaim0011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Bimo's GitHub Stats" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isaim0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
-  </a>
-  <br /><br />
   <a href="https://github.com/isaim0011">
     <img src="https://streak-stats.demolab.com/?user=isaim0011&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8" alt="GitHub Streak" />
   </a>
-</div>
-
----
-
-### 💬 Daily Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
 ---
