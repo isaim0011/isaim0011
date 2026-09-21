@@ -1,30 +1,70 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,38&height=220&section=header&text=Bimo%20%7C%20isaim0011&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+
   <a href="https://github.com/isaim0011">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&height=70&lines=Hey+there%2C+I'm+Bimo+%F0%9F%91%8B;Open+Source+Contributor+%E2%9A%A1;Crafting+Fast+%26+Reliable+Code+%F0%9F%9A%80;Hacking+from+the+Moon+%F0%9F%8C%99" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Hey+there%2C+I'm+Bimo+%F0%9F%91%8B;Open+Source+Contributor+%E2%9A%A1;Crafting+Fast+%26+Reliable+Code+%F0%9F%9A%80;Hacking+from+the+Moon+%F0%9F%8C%99" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
-    <strong>Systems, Web & Developer Tools Enthusiast • Lifelong Learner • Open Source Craftsman</strong>
-  </p>
-
-  <p align="center">
+    <a href="https://github.com/isaim0011"><img src="https://komarev.com/ghpvc/?username=isaim0011&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7" alt="Profile Views" /></a>
+    <img src="https://img.shields.io/badge/PRs%20Merged-3%20Upstream%20%F0%9F%9A%80-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
     <img src="https://img.shields.io/badge/Location-The%20Moon%20%F0%9F%8C%99-1e1e2e?style=for-the-badge&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor%20%E2%9C%A8-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-    <img src="https://img.shields.io/badge/Focus-Bugs%20%26%20Core%20Features%20%F0%9F%94%A7-3b82f6?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/Status-Active%20Contributor%20%E2%9C%A8-8b5cf6?style=for-the-badge" alt="Status" />
   </p>
 
 </div>
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/isaim0011">
+    <img src="https://github-profile-trophy-zeta.vercel.app/?username=isaim0011&theme=tokyonight&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+### 🎖️ GitHub Achievements & Milestones
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100px;" alt="Pull Shark" /><br />
+        <sub><b>Pull Shark 🦈</b></sub><br />
+        <sub>Merged upstream PRs across Swift, Rust & Python</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100px;" alt="Quickdraw" /><br />
+        <sub><b>Quickdraw ⚡</b></sub><br />
+        <sub>Rapid bug triage & precision code reviews</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="100px;" alt="Pair Extraordinaire" /><br />
+        <sub><b>Pair Extraordinaire 👯</b></sub><br />
+        <sub>Collaborating & co-authoring with maintainers</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="100px;" alt="YOLO" /><br />
+        <sub><b>YOLO 🚀</b></sub><br />
+        <sub>Fearless debugging, AST refactoring & fast delivery</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 👨‍💻 About Me
 
-- 🔭 **Current Focus**: Diving into active open-source repositories, tracking down elusive bugs, and improving developer experiences.
+- 🔭 **Current Focus**: Diving into active open-source codebases, tracking down difficult edge-case bugs, and crafting robust software.
 - ⚡ **Recent Highlights**:
   - Merged upstream contributions across **Swift**, **Rust**, **Python**, and **TypeScript** ecosystems.
-  - Implemented prediction debounce & timing logic in native Swift.
-  - Resolved Git OID normalization & checkout identity handling in Rust.
+  - Implemented prediction debounce & model timing pipelines in native Swift.
+  - Resolved Git OID normalization & checkout identity logic in Rust.
   - Authored AST-level type analysis and package manifest resilience fixes.
 - 💬 **Ask me about**: Systems programming, TypeScript ASTs, frontend performance, or debugging complex async pipelines.
 - 🌙 **Base Camp**: Stationed on the Moon, syncing with planet Earth via GitHub.
@@ -83,10 +123,10 @@
 
 <div align="center">
   <a href="https://github.com/isaim0011">
-    <img src="https://github-readme-stats.vercel.app/api?username=isaim0011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Bimo's GitHub Stats" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaim0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaim0011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Bimo's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isaim0011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
   </a>
-  <br />
+  <br /><br />
   <a href="https://github.com/isaim0011">
     <img src="https://streak-stats.demolab.com/?user=isaim0011&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8" alt="GitHub Streak" />
   </a>
@@ -94,6 +134,16 @@
 
 ---
 
+### 💬 Daily Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+---
+
 <div align="center">
   <sub>✨ <i>"Always leave the codebase cleaner than you found it."</i> • Built with ❤️ from the Moon 🌙</sub>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,38&height=90&section=footer" width="100%" alt="Footer Wave" />
 </div>
