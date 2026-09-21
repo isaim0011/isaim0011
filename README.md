@@ -85,6 +85,7 @@
 | Project | Ecosystem | Key Contribution | Status |
 | :--- | :---: | :--- | :---: |
 | **[Janani-bn/CivicFix](https://github.com/Janani-bn/CivicFix)** | `React` `JavaScript` | Removed duplicate modal declaration preventing prefillData prop shadowing | [**#36 (Merged)**](https://github.com/Janani-bn/CivicFix/pull/36) 🚀 |
+| **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** | `Python` | Stalled run protection in agent repeat guard for unobserved actions | [**#105 (In Review)**](https://github.com/browser-use/jev-ultrafast/pull/105) 🔍 |
 | **[nextbsd/nextbsd-userland](https://github.com/nextbsd/nextbsd-userland)** | `C` `BSD` | Ported Apple's `caffeinate(8)` utility and `IOPMAssertion` power stubs | [**#245 (In Review)**](https://github.com/nextbsd/nextbsd-userland/pull/245) 🔍 |
 | **[uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift)** | `Swift` | Corrected prediction debounce timing specification & model alignment | [**#1034 (Merged)**](https://github.com/uttrflow/uttrflow-swift/pull/1034) 🚀 |
 | **[wavefnd/Vex](https://github.com/wavefnd/Vex)** | `Rust` | Normalized accepted Git object IDs before checkout identity comparisons | [**#112 (Merged)**](https://github.com/wavefnd/Vex/pull/112) 🚀 |
