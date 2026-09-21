@@ -93,6 +93,7 @@
 | **[ludo-technologies/polyscan](https://github.com/ludo-technologies/polyscan)** | `Go` `TypeScript` | Parser support & edge propagation for type-only import ASTs | [**#166 (Merged)**](https://github.com/ludo-technologies/polyscan/pull/166) 🚀 |
 | **[HoneyBeeOne/honeybee-browser](https://github.com/HoneyBeeOne/honeybee-browser)** | `C++` `GTK` | Status bar UI component with status and version indicators | [**#24 (Merged)**](https://github.com/HoneyBeeOne/honeybee-browser/pull/24) 🚀 |
 | **[npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)** | `TypeScript` `React` | Resilient packument resolution for unpublished npm packages | [**#458 (In Review)**](https://github.com/npmgraph/npmgraph/pull/458) 🔍 |
+| **[testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)** | `Go` `Docker` | Added `Pause` & `Unpause` container process lifecycle methods | [**#3912 (In Review)**](https://github.com/testcontainers/testcontainers-go/pull/3912) 🔍 |
 
 ---
 
