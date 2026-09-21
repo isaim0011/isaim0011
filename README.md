@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://github.com/isaim0011"><img src="https://komarev.com/ghpvc/?username=isaim0011&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7" alt="Profile Views" /></a>
-    <img src="https://img.shields.io/badge/PRs%20Merged-6%20Upstream%20%F0%9F%9A%80-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
+    <img src="https://img.shields.io/badge/PRs%20Merged-7%20Upstream%20%F0%9F%9A%80-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
     <img src="https://img.shields.io/badge/Location-The%20Moon%20%F0%9F%8C%99-1e1e2e?style=for-the-badge&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Status-Active%20Contributor%20%E2%9C%A8-8b5cf6?style=for-the-badge" alt="Status" />
   </p>
@@ -86,7 +86,7 @@
 | :--- | :---: | :--- | :---: |
 | **[Janani-bn/CivicFix](https://github.com/Janani-bn/CivicFix)** | `React` `JavaScript` | Removed duplicate modal declaration preventing prefillData prop shadowing | [**#36 (Merged)**](https://github.com/Janani-bn/CivicFix/pull/36) 🚀 |
 | **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** | `Python` | Stalled run protection in agent repeat guard for unobserved actions | [**#105 (In Review)**](https://github.com/browser-use/jev-ultrafast/pull/105) 🔍 |
-| **[nextbsd/nextbsd-userland](https://github.com/nextbsd/nextbsd-userland)** | `C` `BSD` | Ported Apple's `caffeinate(8)` utility and `IOPMAssertion` power stubs | [**#245 (In Review)**](https://github.com/nextbsd/nextbsd-userland/pull/245) 🔍 |
+| **[nextbsd/nextbsd-userland](https://github.com/nextbsd/nextbsd-userland)** | `C` `BSD` | Ported Apple's `caffeinate(8)` utility and `IOPMAssertion` power stubs | [**#245 (Merged)**](https://github.com/nextbsd/nextbsd-userland/pull/245) 🚀 |
 | **[uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift)** | `Swift` | Corrected prediction debounce timing specification & model alignment | [**#1034 (Merged)**](https://github.com/uttrflow/uttrflow-swift/pull/1034) 🚀 |
 | **[wavefnd/Vex](https://github.com/wavefnd/Vex)** | `Rust` | Normalized accepted Git object IDs before checkout identity comparisons | [**#112 (Merged)**](https://github.com/wavefnd/Vex/pull/112) 🚀 |
 | **[TaewoooPark/Motifcode](https://github.com/TaewoooPark/Motifcode)** | `Python` | Fixed phantom EOF line rendering in terminal read output | [**#24 (Merged)**](https://github.com/TaewoooPark/Motifcode/pull/24) 🚀 |
