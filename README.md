@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,38&height=200&section=header&text=Bimo%20%E2%9C%A8&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Craftsman&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,38&height=200&section=header&text=Bimo%20%E2%9C%A8&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20and%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Craftsman&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/isaim0011">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Hey+there%2C+I'm+Bimo+%F0%9F%91%8B;Open+Source+Contributor+%E2%9A%A1;Crafting+Fast+%26+Reliable+Code+%F0%9F%9A%80;Hacking+from+the+Moon+%F0%9F%8C%99" alt="Typing SVG Banner" />
@@ -29,7 +29,7 @@
     <tr>
       <td align="center" width="25%">
         <a href="https://github.com/isaim0011?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95px;" alt="Pull Shark" />
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="90px;" alt="Pull Shark" />
         </a>
         <br />
         <b>Pull Shark 🦈</b>
@@ -38,7 +38,7 @@
       </td>
       <td align="center" width="25%">
         <a href="https://github.com/isaim0011?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95px;" alt="Quickdraw" />
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="90px;" alt="Quickdraw" />
         </a>
         <br />
         <b>Quickdraw ⚡</b>
@@ -47,7 +47,7 @@
       </td>
       <td align="center" width="25%">
         <a href="https://github.com/isaim0011?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95px;" alt="Pair Extraordinaire" />
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="90px;" alt="Pair Extraordinaire" />
         </a>
         <br />
         <b>Pair Extraordinaire 👯</b>
@@ -56,7 +56,7 @@
       </td>
       <td align="center" width="25%">
         <a href="https://github.com/isaim0011?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95px;" alt="YOLO" />
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="90px;" alt="YOLO" />
         </a>
         <br />
         <b>YOLO 🚀</b>
@@ -89,7 +89,7 @@
 | **[uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift)** | `Swift` | Corrected prediction debounce timing specification & model alignment | [**#1034 (Merged)**](https://github.com/uttrflow/uttrflow-swift/pull/1034) 🚀 |
 | **[wavefnd/Vex](https://github.com/wavefnd/Vex)** | `Rust` | Normalized accepted Git object IDs before checkout identity comparisons | [**#112 (Merged)**](https://github.com/wavefnd/Vex/pull/112) 🚀 |
 | **[TaewoooPark/Motifcode](https://github.com/TaewoooPark/Motifcode)** | `Python` | Fixed phantom EOF line rendering in terminal read output | [**#24 (Merged)**](https://github.com/TaewoooPark/Motifcode/pull/24) 🚀 |
-| **[npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)** | `TypeScript` `React` | Resilient packument resolution for unpublished npm packages | [**#458 (Open)**](https://github.com/npmgraph/npmgraph/pull/458) 🔍 |
+| **[npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)** | `TypeScript` `React` | Resilient packument resolution for unpublished npm packages | [**#458 (Active Review)**](https://github.com/npmgraph/npmgraph/pull/458) 🔍 |
 | **[ludo-technologies/polyscan](https://github.com/ludo-technologies/polyscan)** | `Go` `TypeScript` | Parser support & edge propagation for type-only import ASTs | [**#166 (In Review)**](https://github.com/ludo-technologies/polyscan/pull/166) 🔍 |
 | **[HoneyBeeOne/honeybee-browser](https://github.com/HoneyBeeOne/honeybee-browser)** | `JavaScript` | Custom status bar UI component with zoom & security status indicators | [**#24 (Open)**](https://github.com/HoneyBeeOne/honeybee-browser/pull/24) 🔍 |
 
@@ -98,34 +98,9 @@
 ### 🛠️ Tech Stack & Tooling
 
 <div align="center">
-
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
-
-#### Frameworks & Ecosystem
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Parcel-E7A860?style=for-the-badge&logo=parcel&logoColor=white" alt="Parcel" />
-</p>
-
-#### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,swift,rust,go,cpp,react,nodejs,nextjs,git,githubactions,linux,docker&theme=dark" alt="My Tech Stack" />
+  </a>
 </div>
 
 ---
