@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,38&height=200&section=header&text=Bimo%20%E2%9C%A8&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20and%20Systems%20Engineer%20%E2%80%A2%20Open%20Source%20Craftsman&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
-
   <a href="https://github.com/isaim0011">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Hey+there%2C+I'm+Bimo+%F0%9F%91%8B;Open+Source+Contributor+%E2%9A%A1;Crafting+Fast+%26+Reliable+Code+%F0%9F%9A%80;Hacking+from+the+Moon+%F0%9F%8C%99" alt="Typing SVG Banner" />
   </a>
@@ -117,6 +115,4 @@
 
 <div align="center">
   <sub>✨ <i>"Always leave the codebase cleaner than you found it."</i> • Built with ❤️ from the Moon 🌙</sub>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,38&height=90&section=footer" width="100%" alt="Footer Wave" />
 </div>
