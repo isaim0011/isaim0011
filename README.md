@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://github.com/isaim0011"><img src="https://komarev.com/ghpvc/?username=isaim0011&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7" alt="Profile Views" /></a>
-    <img src="https://img.shields.io/badge/PRs%20Merged-3%20Upstream%20%F0%9F%9A%80-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
+    <img src="https://img.shields.io/badge/PRs%20Merged-5%20Upstream%20%F0%9F%9A%80-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
     <img src="https://img.shields.io/badge/Location-The%20Moon%20%F0%9F%8C%99-1e1e2e?style=for-the-badge&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Status-Active%20Contributor%20%E2%9C%A8-8b5cf6?style=for-the-badge" alt="Status" />
   </p>
@@ -87,9 +87,9 @@
 | **[uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift)** | `Swift` | Corrected prediction debounce timing specification & model alignment | [**#1034 (Merged)**](https://github.com/uttrflow/uttrflow-swift/pull/1034) 🚀 |
 | **[wavefnd/Vex](https://github.com/wavefnd/Vex)** | `Rust` | Normalized accepted Git object IDs before checkout identity comparisons | [**#112 (Merged)**](https://github.com/wavefnd/Vex/pull/112) 🚀 |
 | **[TaewoooPark/Motifcode](https://github.com/TaewoooPark/Motifcode)** | `Python` | Fixed phantom EOF line rendering in terminal read output | [**#24 (Merged)**](https://github.com/TaewoooPark/Motifcode/pull/24) 🚀 |
-| **[npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)** | `TypeScript` `React` | Resilient packument resolution for unpublished npm packages | [**#458 (Active Review)**](https://github.com/npmgraph/npmgraph/pull/458) 🔍 |
-| **[ludo-technologies/polyscan](https://github.com/ludo-technologies/polyscan)** | `Go` `TypeScript` | Parser support & edge propagation for type-only import ASTs | [**#166 (In Review)**](https://github.com/ludo-technologies/polyscan/pull/166) 🔍 |
-| **[HoneyBeeOne/honeybee-browser](https://github.com/HoneyBeeOne/honeybee-browser)** | `JavaScript` | Custom status bar UI component with zoom & security status indicators | [**#24 (Open)**](https://github.com/HoneyBeeOne/honeybee-browser/pull/24) 🔍 |
+| **[ludo-technologies/polyscan](https://github.com/ludo-technologies/polyscan)** | `Go` `TypeScript` | Parser support & edge propagation for type-only import ASTs | [**#166 (Merged)**](https://github.com/ludo-technologies/polyscan/pull/166) 🚀 |
+| **[HoneyBeeOne/honeybee-browser](https://github.com/HoneyBeeOne/honeybee-browser)** | `C++` `GTK` | Status bar UI component with status and version indicators | [**#24 (Merged)**](https://github.com/HoneyBeeOne/honeybee-browser/pull/24) 🚀 |
+| **[npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)** | `TypeScript` `React` | Resilient packument resolution for unpublished npm packages | [**#458 (In Review)**](https://github.com/npmgraph/npmgraph/pull/458) 🔍 |
 
 ---
 
