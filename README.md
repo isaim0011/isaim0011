@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://github.com/isaim0011"><img src="https://komarev.com/ghpvc/?username=isaim0011&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7" alt="Profile Views" /></a>
-    <img src="https://img.shields.io/badge/PRs%20Merged-10%20Upstream%20%F0%9F%9A%80-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
+    <img src="https://img.shields.io/badge/PRs%20Merged-12%20Upstream%20%F0%9F%9A%80-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
     <img src="https://img.shields.io/badge/Location-The%20Moon%20%F0%9F%8C%99-1e1e2e?style=for-the-badge&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Status-Active%20Contributor%20%E2%9C%A8-8b5cf6?style=for-the-badge" alt="Status" />
   </p>
@@ -72,17 +72,21 @@
     <tr>
       <td align="center" colspan="4">
         <br/>
-        <b>🌟 New — Security Defender</b>
+        <b>🌟 Security Defender</b>
         <br/>
-        <sub>Fixed a critical bcrypt 500→400 boundary bug in a production REST API (<a href="https://github.com/LAA-Software-Engineering/golang-rest-api-template/pull/256">golang-rest-api-template #256</a>)</sub>
+        <sub>Fixed a critical bcrypt 500→400 boundary bug in a production REST API (<a href="https://github.com/LAA-Software-Engineering/golang-rest-api-template/pull/256">golang-rest-api-template #256 - Merged</a>)</sub>
         <br/><br/>
-        <b>🎨 New — UI Restorer</b>
+        <b>🔋 Power Architect (NextBSD Core)</b>
+        <br/>
+        <sub>Ported <code>caffeinate(8)</code> &amp; <code>IOPMAssertion</code> into NextBSD, officially documented &amp; credited in the <a href="https://github.com/nextbsd/nextbsd/wiki/Power-Management">NextBSD Power Management Wiki</a></sub>
+        <br/><br/>
+        <b>🎨 UI Restorer</b>
         <br/>
         <sub>Rescued a production light theme from full dark CSS override across authenticated surfaces (<a href="https://github.com/harini281/TravelWise/pull/7">TravelWise #7</a>)</sub>
         <br/><br/>
-        <b>🧪 New — Fixture Architect</b>
+        <b>🧪 Fixture Architect</b>
         <br/>
-        <sub>Authored & argued the <code>clean-inspect-before-patch</code> fixture for <a href="https://github.com/TypeSafeAI/jev-harness">TypeSafeAI/jev-harness</a> — credited in <a href="https://github.com/TypeSafeAI/jev-harness/pull/33">PR #33</a> by the maintainer</sub>
+        <sub>Authored & argued the <code>clean-inspect-before-patch</code> fixture for <a href="https://github.com/TypeSafeAI/jev-harness">TypeSafeAI/jev-harness</a> — credited and merged into main via <a href="https://github.com/TypeSafeAI/jev-harness/pull/33">PR #33</a></sub>
         <br/><br/>
       </td>
     </tr>
@@ -95,10 +99,11 @@
 
 - 🔭 **Current Focus**: Diving into active open-source codebases, tracking down difficult edge-case bugs, and crafting robust software.
 - ⚡ **Recent Highlights**:
-  - Merged upstream contributions across **Swift**, **Rust**, **Go**, **Python**, **TypeScript/React**, **C++**, and **CSS** ecosystems.
-  - Fixed a bcrypt password-length boundary bug in a Go REST API — returned correct `400 Bad Request` instead of `500`, with full Swagger docs and boundary tests.
-  - Restored a broken light theme across an entire authenticated React app by identifying a CSS variable override conflict.
-  - Authored a synthetic test fixture for TypeSafeAI's Jev AI harness — credited by maintainer in the official PR.
+  - Merged upstream contributions across **Swift**, **Rust**, **Go**, **Python**, **TypeScript/React**, **C/BSD**, and **C++** ecosystems.
+  - Fixed a bcrypt password-length boundary bug in a Go REST API — returned correct `400 Bad Request` instead of `500`, with full Swagger docs and boundary tests ([#256 Merged](https://github.com/LAA-Software-Engineering/golang-rest-api-template/pull/256)).
+  - Authored a synthetic test fixture for TypeSafeAI's Jev AI harness — credited by maintainer and merged ([#33 Merged](https://github.com/TypeSafeAI/jev-harness/pull/33)).
+  - Ported Apple's `caffeinate(8)` utility and `IOPMAssertion` power stubs into NextBSD userland, establishing foundational power management documented in the official NextBSD Wiki.
+  - Restored a broken light theme across an entire authenticated React app by identifying a CSS variable override conflict ([#7 In Review](https://github.com/harini281/TravelWise/pull/7)).
   - Implemented prediction debounce & model timing pipelines in native Swift.
   - Resolved Git OID normalization & checkout identity logic in Rust.
 - 🗺️ **Ask me about**: Systems programming, TypeScript ASTs, frontend performance, debugging complex async pipelines, or Go/bcrypt security.
@@ -110,12 +115,10 @@
 
 | Project | Ecosystem | Key Contribution | Status |
 | :--- | :---: | :--- | :---: |
-| **[LAA-Software-Engineering/golang-rest-api-template](https://github.com/LAA-Software-Engineering/golang-rest-api-template)** | `Go` | Fixed bcrypt 72-byte password limit returning 500→400 Bad Request; added Swagger docs & boundary tests | [**#256 (In Review)**](https://github.com/LAA-Software-Engineering/golang-rest-api-template/pull/256) 🔄 |
+| **[LAA-Software-Engineering/golang-rest-api-template](https://github.com/LAA-Software-Engineering/golang-rest-api-template)** | `Go` | Fixed bcrypt 72-byte password limit returning 500→400 Bad Request; added Swagger docs & boundary tests | [**#256 (Merged)**](https://github.com/LAA-Software-Engineering/golang-rest-api-template/pull/256) ✅ |
+| **[TypeSafeAI/jev-harness](https://github.com/TypeSafeAI/jev-harness)** | `TypeScript` | Authored `clean-inspect-before-patch` fixture & argued `clean` category — credited in maintainer's PR | [**#33 (Merged)**](https://github.com/TypeSafeAI/jev-harness/pull/33) ✅ |
+| **[nextbsd/nextbsd-userland](https://github.com/nextbsd/nextbsd-userland)** | `C` `BSD` | Ported Apple's `caffeinate(8)` utility and `IOPMAssertion` power stubs; documented in NextBSD Wiki | [**#245 (Merged)**](https://github.com/nextbsd/nextbsd-userland/pull/245) ✅ |
 | **[harini281/TravelWise](https://github.com/harini281/TravelWise)** | `CSS` `React` | Restored clean light theme across all authenticated screens by removing conflicting dark CSS overrides in `premium.css` | [**#7 (In Review)**](https://github.com/harini281/TravelWise/pull/7) 🔄 |
-| **[TypeSafeAI/jev-harness](https://github.com/TypeSafeAI/jev-harness)** | `TypeScript` | Authored `clean-inspect-before-patch` fixture & argued `clean` category — credited in maintainer's PR | [**#4 (Contribution)**](https://github.com/TypeSafeAI/jev-harness/issues/4) ✨ |
-| **[Janani-bn/CivicFix](https://github.com/Janani-bn/CivicFix)** | `React` `JavaScript` | Removed duplicate modal declaration preventing prefillData prop shadowing | [**#36 (Merged)**](https://github.com/Janani-bn/CivicFix/pull/36) ✅ |
-| **[browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)** | `Python` | Stalled run protection in agent repeat guard for unobserved actions | [**#105 (In Review)**](https://github.com/browser-use/jev-ultrafast/pull/105) 🔄 |
-| **[nextbsd/nextbsd-userland](https://github.com/nextbsd/nextbsd-userland)** | `C` `BSD` | Ported Apple's `caffeinate(8)` utility and `IOPMAssertion` power stubs | [**#245 (Merged)**](https://github.com/nextbsd/nextbsd-userland/pull/245) ✅ |
 | **[uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift)** | `Swift` | Corrected prediction debounce timing specification & model alignment | [**#1034 (Merged)**](https://github.com/uttrflow/uttrflow-swift/pull/1034) ✅ |
 | **[wavefnd/Vex](https://github.com/wavefnd/Vex)** | `Rust` | Normalized accepted Git object IDs before checkout identity comparisons | [**#112 (Merged)**](https://github.com/wavefnd/Vex/pull/112) ✅ |
 | **[TaewooPark/Motifcode](https://github.com/TaewooPark/Motifcode)** | `Python` | Fixed phantom EOF line rendering in terminal read output | [**#24 (Merged)**](https://github.com/TaewooPark/Motifcode/pull/24) ✅ |
