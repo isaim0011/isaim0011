@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://github.com/isaim0011"><img src="https://komarev.com/ghpvc/?username=isaim0011&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7" alt="Profile Views" /></a>
-    <img src="https://img.shields.io/badge/PRs%20Merged-12%20Upstream%20%F0%9F%9A%80-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
+    <img src="https://img.shields.io/badge/PRs%20Merged-15%20Upstream%20%F0%9F%9A%80-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
     <img src="https://img.shields.io/badge/Location-The%20Moon%20%F0%9F%8C%99-1e1e2e?style=for-the-badge&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Status-Active%20Contributor%20%E2%9C%A8-8b5cf6?style=for-the-badge" alt="Status" />
   </p>
@@ -118,10 +118,12 @@
 | **[LAA-Software-Engineering/golang-rest-api-template](https://github.com/LAA-Software-Engineering/golang-rest-api-template)** | `Go` | Fixed bcrypt 72-byte password limit returning 500→400 Bad Request; added Swagger docs & boundary tests | [**#256 (Merged)**](https://github.com/LAA-Software-Engineering/golang-rest-api-template/pull/256) ✅ |
 | **[TypeSafeAI/jev-harness](https://github.com/TypeSafeAI/jev-harness)** | `TypeScript` | Authored `clean-inspect-before-patch` fixture & argued `clean` category — credited in maintainer's PR | [**#33 (Merged)**](https://github.com/TypeSafeAI/jev-harness/pull/33) ✅ |
 | **[nextbsd/nextbsd-userland](https://github.com/nextbsd/nextbsd-userland)** | `C` `BSD` | Ported Apple's `caffeinate(8)` utility and `IOPMAssertion` power stubs; documented in NextBSD Wiki | [**#245 (Merged)**](https://github.com/nextbsd/nextbsd-userland/pull/245) ✅ |
+| **[Zephyr-ramp/zephyr-frontend](https://github.com/Zephyr-ramp/zephyr-frontend)** | `TypeScript` `React` | Added network status badge (testnet/public) to wallet navigation header | [**#17 (Merged)**](https://github.com/Zephyr-ramp/zephyr-frontend/pull/17) ✅ |
+| **[freema/drobek](https://github.com/freema/drobek)** | `TypeScript` `Docs` | Fixed dead security review link, clarified accent folding in search, aligned self-hosted terminology | [**#27 (Merged)**](https://github.com/freema/drobek/pull/27) ✅ |
+| **[J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf)** | `Rust` | Exported `DateTime` from crate root to enable naming `Object::as_datetime()` return type | [**#579 (Merged)**](https://github.com/J-F-Liu/lopdf/pull/579) ✅ |
+| **[dev-poliana-escolar/cade-sistemas-achados-perdidos](https://github.com/dev-poliana-escolar/cade-sistemas-achados-perdidos)** | `Python` `Django` | Lazy-load Groq client & add CI fallback environment variable to prevent migration crashes | [**#9 (In Review)**](https://github.com/dev-poliana-escolar/cade-sistemas-achados-perdidos/pull/9) 🔄 |
 | **[menahil-tanveer55/vscode-ts-backend-snippets](https://github.com/menahil-tanveer55/vscode-ts-backend-snippets)** | `TypeScript` `VSCode` | Added `xp-service-prisma` snippet with typed 404 AppError handling & stubs | [**#10 (In Review)**](https://github.com/menahil-tanveer55/vscode-ts-backend-snippets/pull/10) 🔄 |
 | **[dev-poliana-escolar/cade-sistemas-achados-perdidos](https://github.com/dev-poliana-escolar/cade-sistemas-achados-perdidos)** | `Django` `HTML` `CSS` | Implemented WCAG AA accessibility landmarks, skip link, responsive tables, and extracted modular static stylesheet | [**#7 (Merged)**](https://github.com/dev-poliana-escolar/cade-sistemas-achados-perdidos/pull/7) ✅ |
-| **[freema/drobek](https://github.com/freema/drobek)** | `TypeScript` `Docs` | Fixed dead security review link, clarified accent folding in search, aligned self-hosted terminology | [**#27 (In Review)**](https://github.com/freema/drobek/pull/27) 🔄 |
-| **[J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf)** | `Rust` | Exported `DateTime` from crate root to enable naming `Object::as_datetime()` return type | [**#579 (In Review)**](https://github.com/J-F-Liu/lopdf/pull/579) 🔄 |
 | **[harini281/TravelWise](https://github.com/harini281/TravelWise)** | `CSS` `React` | Restored clean light theme across all authenticated screens by removing conflicting dark CSS overrides in `premium.css` | [**#7 (In Review)**](https://github.com/harini281/TravelWise/pull/7) 🔄 |
 | **[uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift)** | `Swift` | Corrected prediction debounce timing specification & model alignment | [**#1034 (Merged)**](https://github.com/uttrflow/uttrflow-swift/pull/1034) ✅ |
 | **[wavefnd/Vex](https://github.com/wavefnd/Vex)** | `Rust` | Normalized accepted Git object IDs before checkout identity comparisons | [**#112 (Merged)**](https://github.com/wavefnd/Vex/pull/112) ✅ |
