@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://github.com/isaim0011"><img src="https://komarev.com/ghpvc/?username=isaim0011&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7" alt="Profile Views" /></a>
-    <img src="https://img.shields.io/badge/PRs%20Merged-15%20Upstream%20%F0%9F%9A%80-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
+    <img src="https://img.shields.io/badge/PRs%20Merged-16%20Upstream%20%F0%9F%9A%80-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="PRs Merged" />
     <img src="https://img.shields.io/badge/Location-The%20Moon%20%F0%9F%8C%99-1e1e2e?style=for-the-badge&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Status-Active%20Contributor%20%E2%9C%A8-8b5cf6?style=for-the-badge" alt="Status" />
   </p>
@@ -124,13 +124,12 @@
 | **[dev-poliana-escolar/cade-sistemas-achados-perdidos](https://github.com/dev-poliana-escolar/cade-sistemas-achados-perdidos)** | `Python` `Django` | Lazy-load Groq client & add CI fallback environment variable to prevent migration crashes | [**#9 (In Review)**](https://github.com/dev-poliana-escolar/cade-sistemas-achados-perdidos/pull/9) 🔄 |
 | **[menahil-tanveer55/vscode-ts-backend-snippets](https://github.com/menahil-tanveer55/vscode-ts-backend-snippets)** | `TypeScript` `VSCode` | Added `xp-service-prisma` snippet with typed 404 AppError handling & stubs | [**#10 (In Review)**](https://github.com/menahil-tanveer55/vscode-ts-backend-snippets/pull/10) 🔄 |
 | **[dev-poliana-escolar/cade-sistemas-achados-perdidos](https://github.com/dev-poliana-escolar/cade-sistemas-achados-perdidos)** | `Django` `HTML` `CSS` | Implemented WCAG AA accessibility landmarks, skip link, responsive tables, and extracted modular static stylesheet | [**#7 (Merged)**](https://github.com/dev-poliana-escolar/cade-sistemas-achados-perdidos/pull/7) ✅ |
-| **[harini281/TravelWise](https://github.com/harini281/TravelWise)** | `CSS` `React` | Restored clean light theme across all authenticated screens by removing conflicting dark CSS overrides in `premium.css` | [**#7 (In Review)**](https://github.com/harini281/TravelWise/pull/7) 🔄 |
+| **[npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)** | `TypeScript` `React` | Resilient packument resolution for unpublished npm packages | [**#458 (Merged)**](https://github.com/npmgraph/npmgraph/pull/458) ✅ |
 | **[uttrflow/uttrflow-swift](https://github.com/uttrflow/uttrflow-swift)** | `Swift` | Corrected prediction debounce timing specification & model alignment | [**#1034 (Merged)**](https://github.com/uttrflow/uttrflow-swift/pull/1034) ✅ |
 | **[wavefnd/Vex](https://github.com/wavefnd/Vex)** | `Rust` | Normalized accepted Git object IDs before checkout identity comparisons | [**#112 (Merged)**](https://github.com/wavefnd/Vex/pull/112) ✅ |
 | **[TaewooPark/Motifcode](https://github.com/TaewooPark/Motifcode)** | `Python` | Fixed phantom EOF line rendering in terminal read output | [**#24 (Merged)**](https://github.com/TaewooPark/Motifcode/pull/24) ✅ |
 | **[ludo-technologies/polyscan](https://github.com/ludo-technologies/polyscan)** | `Go` `TypeScript` | Parser support & edge propagation for type-only import ASTs | [**#166 (Merged)**](https://github.com/ludo-technologies/polyscan/pull/166) ✅ |
 | **[HoneyBeeOne/honeybee-browser](https://github.com/HoneyBeeOne/honeybee-browser)** | `C++` `GTK` | Status bar UI component with status and version indicators | [**#24 (Merged)**](https://github.com/HoneyBeeOne/honeybee-browser/pull/24) ✅ |
-| **[npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)** | `TypeScript` `React` | Resilient packument resolution for unpublished npm packages | [**#458 (In Review)**](https://github.com/npmgraph/npmgraph/pull/458) 🔄 |
 | **[testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go)** | `Go` `Docker` | Added `Pause` & `Unpause` container process lifecycle methods | [**#3912 (In Review)**](https://github.com/testcontainers/testcontainers-go/pull/3912) 🔄 |
 | **[Janani-bn/CivicFix](https://github.com/Janani-bn/CivicFix)** | `React` `JavaScript` | Removed duplicate modal declaration preventing prefillData prop shadowing | [**#36 (Merged)**](https://github.com/Janani-bn/CivicFix/pull/36) ✅ |
 
